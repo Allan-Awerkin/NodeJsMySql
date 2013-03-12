@@ -1,4 +1,4 @@
-#NodeJsMySql Sample Rest API
+#NodeJsMySql Sample Rest API (POST from SAP)
 
 NodeJs Server with REST APIs to populate MySql
 
