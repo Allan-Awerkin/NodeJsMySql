@@ -1,7 +1,14 @@
 #NodeJsMySql Sample Rest API
-===========================
 
-This is the first sample of my Web2.0 inspection !!!
+NodeJs Server with REST APIs to populate MySql
 
-1. This should be an unsorted item
-2. and a second one
+##Goals and Intentions
+The idea is this POC is to :
+
+* Populate MySql with POST api call from SAP Backend
+* Use this Db and API to build a client mobile application
+
+##ABAP SapLink and Nuggets
+```abap
+Data zcl_http_service type ref to cl_http_service.
+```
