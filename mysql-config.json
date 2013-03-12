@@ -1,0 +1,7 @@
+{
+  "user": "drupal",
+  "password" : "drupal",
+  "database" : "nodetest",
+  "host" : "localhost",
+  "port" : 3306
+}
